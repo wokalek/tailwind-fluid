@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-fluid",
+  "version": "0.1.0",
+  "description": "Make your website look the way you intended on any screen",
+  "keywords": [
+    "tailwind",
+    "fluid",
+    "system"
+  ],
+  "repository": "https://github.com/wokalek/tailwind-fluid",
+  "license": "MIT",
+  "author": "Alexandr Wokalek <wokalek@wokalek.ru> (https://wokalek.ru)",
+  "main": "src/plugin.ts",
+  "scripts": {
+    "test": "pnpm test",
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
